@@ -1,3 +1,8 @@
+<style>
+    table {
+        width:100%;
+    }    
+</style>
 # Backend as a Service System
 
 ## Overview
