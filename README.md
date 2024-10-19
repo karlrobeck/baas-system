@@ -1,8 +1,3 @@
-<style>
-    table {
-        width:100%;
-    }    
-</style>
 # Backend as a Service System
 
 ## Overview
@@ -19,7 +14,7 @@ This project is a backend as a service system inspired by the concept of PocketB
 ## Roadmap
 
 | Feature                  | Status         |
-|--------------------------|----------------|
+| --- | --- |
 | Record Management        | [ ] Not Complete |
 | Collection Management    | [ ] Not Complete |
 | Authentication           | [ ] Not Complete |
@@ -29,7 +24,7 @@ This project is a backend as a service system inspired by the concept of PocketB
 ## Tech Stack
 
 | Technology | Advantages |
-|------------|-------------|
+| --- | --- |
 | **Deno 2.0** | - Higher performance compared to Node.js<br>- Secure dependencies with no micro-libraries<br>- Built-in TypeScript support |
 | **SolidJS** | - Faster than React, no virtual DOM<br>- Efficient updates and rendering<br>- Easy to learn and use |
 | **Solid-UI** | - Comprehensive and easy to integrate<br>- Ensures a consistent look and feel<br>- Highly customizable components |
