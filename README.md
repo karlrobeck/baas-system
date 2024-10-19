@@ -13,13 +13,13 @@ This project is a backend as a service system inspired by the concept of PocketB
 
 ## Roadmap
 
-| Feature                  | Status         |
+| Feature | Status |
 | --- | --- |
-| Record Management        | [ ] Not Complete |
-| Collection Management    | [ ] Not Complete |
-| Authentication           | [ ] Not Complete |
-| Monitoring               | [ ] Not Complete |
-| Admin Dashboard          | [ ] Not Complete |
+| Record Management | [ ] Not Complete |
+| Collection Management | [ ] Not Complete |
+| Authentication | [ ] Not Complete |
+| Monitoring | [ ] Not Complete |
+| Admin Dashboard | [ ] Not Complete |
 
 ## Tech Stack
 
