@@ -13,22 +13,23 @@ This project is a backend as a service system inspired by the concept of PocketB
 
 ## Roadmap
 
-| Feature | Status |
-|---|---|
-| Record Management | [ ] Not Complete |
-| Collection Management | [ ] Not Complete |
-| Authentication | [ ] Not Complete |
-| Monitoring | [ ] Not Complete |
-| Admin Dashboard | [ ] Not Complete |
+| Feature<br> | Status<br> | Description<br> |
+|---| :---: |---|
+| **Record Management** | [ :x: ] | Not Complete |
+| **Collection Management** | [ :x: ] | Not Complete |
+| **Authentication** | [ :x: ] | Not Complete |
+| **Monitoring** | [ :x: ] | Not Complete |
+| **Admin Dashboard** | [ :x: ] | Not Complete |
+
 
 ## Tech Stack
 
 | Technology | Advantages |
 |---|---|
-| **Deno 2.0** | - Higher performance compared to Node.js<br>- Secure dependencies with no micro-libraries<br>- Built-in TypeScript support |
-| **SolidJS** | - Faster than React, no virtual DOM<br>- Efficient updates and rendering<br>- Easy to learn and use |
-| **Solid-UI** | - Comprehensive and easy to integrate<br>- Ensures a consistent look and feel<br>- Highly customizable components |
-| **PostgreSQL** | - Robust and reliable<br>- Supports complex queries and indexing<br>- Handles large volumes of data |
+| **Deno 2.0** | High performance, secure dependencies, built-in TypeScript support. |
+| **SolidJS** | Fast, efficient updates, easy to learn. |
+| **Solid-UI** | Comprehensive, consistent look, customizable. |
+| **PostgreSQL** | Robust, supports complex queries, handles large data volumes. |
 
 ## Design and Architecture
 
